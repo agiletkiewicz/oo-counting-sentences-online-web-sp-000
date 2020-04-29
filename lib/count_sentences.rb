@@ -19,4 +19,5 @@ class String
     sentences_array = array.delete_if{|x| x == ""}
     sentences_array.length
   end
+  
 end
